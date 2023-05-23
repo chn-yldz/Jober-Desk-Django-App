@@ -1,4 +1,4 @@
-# Staj Bulma Django App
+# Staj Yeri Bulma Uygulaması
 PostgreSQL --> (job) isimli bir veritabanı oluşturulması gerekmektedir.
 
 Projenin amacı staj zorunluluğu bulunan bölümlerde okuyan öğrencilerin staj yeri ayarlamasını kolaylaştırmaktır. Şirket ve Öğrenci kayıt ekranları bulunmaktadır. Rolünüze göre kayıt olabilirsiniz.
